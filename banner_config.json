@@ -2,15 +2,15 @@
   "banner_enabled": false,
   "target_audience": "all",
   "type": "announcement",
-  "title": "BIENVENIDO A MORE THAN MODES",
-  "message": "Esta es una prueba del sistema de banners remotos. Edita este archivo en GitHub para cambiar el contenido.",
+  "title": "Nueva actualización disponible",
+  "message": "Descarga la última versión de More Than Modes con mejoras y nuevas funciones.",
   "features": [
-    "✅ Banner configurable desde GitHub",
-    "✅ Cambios visibles al reiniciar la app",
-    "✅ Sin necesidad de rebuild"
+    "✅ Mejoras de rendimiento",
+    "✅ Corrección de errores",
+    "✅ Nueva interfaz mejorada"
   ],
-  "cta_text": "Entendido",
-  "cta_action": "none",
+  "cta_text": "Actualizar Ahora",
+  "cta_action": "app_store",
   "cta_url": null,
   "dismissible": true,
   "priority": "medium",
