@@ -1,22 +1,22 @@
 {
   "banner_enabled": true,
   "target_audience": "all",
-  "type": "announcement",
-  "title": "Nueva actualización disponible",
-  "message": "Descarga la última versión de More Than Modes con mejoras y nuevas funciones.",
+  "type": "promotion",
+  "title": "PROMO DE INAUGURACIÓN 🎸",
+  "message": "¡Estamos de estreno! Consigue acceso total a todas las funciones por un precio único este mes.",
   "features": [
-    "✅ Mejoras de rendimiento",
-    "✅ Corrección de errores",
-    "✅ Nueva interfaz mejorada"
+    "✅ Escalas, Modos y Visualización CAGED/3NPS",
+    "✅ Biblioteca completa de Backing Tracks",
+    "✅ Herramientas de edición y práctica sin límites"
   ],
-  "cta_text": "Actualizar Ahora",
-  "cta_action": "app_store",
+  "cta_text": "¡Activar Oferta!",
+  "cta_action": "paywall",
   "cta_url": null,
   "dismissible": true,
-  "priority": "medium",
+  "priority": "high",
   "version": "1.0",
-  "trial_old_price": "$30.00",
-  "trial_new_price": "$30.00",
+  "trial_old_price": "$12.99",
+  "trial_new_price": "$5.99",
   "trial_currency": "USD",
-  "trial_promo_badge": "PRECIO OFICIAL"
+  "trial_promo_badge": "MES DE ESTRENO"
 }
