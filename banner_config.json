@@ -1,5 +1,5 @@
 {
-  "banner_enabled": true,
+  "banner_enabled": false,
   "target_audience": "all",
   "type": "announcement",
   "title": "BIENVENIDO A MORE THAN MODES",
@@ -14,5 +14,9 @@
   "cta_url": null,
   "dismissible": true,
   "priority": "medium",
-  "version": "1.0"
+  "version": "1.0",
+  "trial_old_price": "$12.99",
+  "trial_new_price": "$5.99",
+  "trial_currency": "USD",
+  "trial_promo_badge": "PROMOCIÓN DE LANZAMIENTO"
 }
