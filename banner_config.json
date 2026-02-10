@@ -2,21 +2,28 @@
   "banner_enabled": true,
   "target_audience": "all",
   "type": "promotion",
-  "title": "PROMO DE INAUGURACIÓN 🎸",
-  "message": "¡Estamos de estreno! Consigue acceso total a todas las funciones por un precio único este mes.",
+  "title": "🎸 ¡OFERTA FLASH DE INAUGURACIÓN! 🚀",
+  "message": "Domina el Fretboard con acceso total a More Than Modes. Solo este mes.",
   "features": [
-    "✅ Escalas, Modos y Visualización CAGED/3NPS",
-    "✅ Biblioteca completa de Backing Tracks",
-    "✅ Herramientas de edición y práctica sin límites"
+    "✅ TODAS las Escalas y Modos Griego",
+    "✅ Visualización PRO (CAGED y 3NPS)",
+    "✅ Backing Tracks Ilimitados",
+    "✅ Herramientas de Práctica Exclusivas"
   ],
-  "cta_text": "¡Activar Oferta!",
+  "cta_text": "¡CONSEGUIR ACCESO PRO!",
   "cta_action": "paywall",
   "cta_url": null,
   "dismissible": true,
-  "priority": "high",
-  "version": "1.0",
+  "priority": "highest",
+  "version": "1.1",
   "trial_old_price": "$12.99",
   "trial_new_price": "$5.99",
   "trial_currency": "USD",
-  "trial_promo_badge": "MES DE ESTRENO"
+  "trial_promo_badge": "🔥 PRECIO ÚNICO 🔥",
+  "style_settings": {
+    "text_color": "#FFFFFF",
+    "old_price_color": "#FF4444",
+    "bg_color": "#121212",
+    "accent_color": "#FFD700"
+  }
 }
